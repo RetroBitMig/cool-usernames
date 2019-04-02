@@ -1,0 +1,23 @@
+{
+  "name": "cool-usernames",
+  "version": "1.0.0",
+  "description": "look ma, no hands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RetroBitMig/cool-usernames.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RetroBitMig/cool-usernames/issues"
+  },
+  "homepage": "https://github.com/RetroBitMig/cool-usernames#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
