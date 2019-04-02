@@ -1,3 +1,3 @@
 # cool usernames
 
-look ma, no feet
+look ma, no hands
